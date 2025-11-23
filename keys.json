@@ -1,7 +1,7 @@
 {
   "keys": {
     "exemplo1": {
-      "enabled": true,
+      "enabled": false,
       "duration": "1h",
       "device_limit": 1
     },
