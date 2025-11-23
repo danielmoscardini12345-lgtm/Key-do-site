@@ -4,6 +4,7 @@
       "enabled": true,
       "duration": "perm",
       "device_limit": 1,
+      "notes": "key do dono"
     },
 
     "exemplo2": {
