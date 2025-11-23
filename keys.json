@@ -1,0 +1,21 @@
+{
+  "keys": {
+    "exemplo1": {
+      "enabled": true,
+      "duration": "1h",
+      "device_limit": 1
+    },
+
+    "exemplo2": {
+      "enabled": true,
+      "duration": "24h",
+      "device_limit": 2
+    },
+
+    "exemplo3": {
+      "enabled": false,
+      "duration": "7d",
+      "device_limit": 5
+    }
+  }
+}
